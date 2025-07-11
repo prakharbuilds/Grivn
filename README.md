@@ -62,8 +62,8 @@ You are free to use, modify, and redistribute — as long as it remains open-sou
 ## 📌 Links
 
 * **Support Server**: \[Coming Soon]
-* **Terms of Service**: \[Coming Soon]
-* **Privacy Policy**: \[Coming Soon]
+* **Terms of Service**: \[Terms of Service](https://github.com/wthfossil/grivn/blob/main/Terms-of-Service.md)
+* **Privacy Policy**: \[Privacy Policy](https://github.com/wthfossil/grivn/blob/main/Privacy-Policy.md)
 
 ---
 
