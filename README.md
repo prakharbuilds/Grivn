@@ -68,5 +68,3 @@ You are free to use, modify, and redistribute — as long as it remains open-sou
 ---
 
 Made with 💻 by [@wthfossil](https://github.com/wthfossil)
-
-```
