@@ -1,29 +1,54 @@
-# Terms of Service for Grivn Bot
+# Terms of Service — Grivn Bot
 
-Last Updated: July 4, 2025
+_Last Updated: July 4, 2025_
 
-By adding Grivn Bot ("the Bot") to your Discord server or using any of its features, you agree to the following Terms of Service ("Terms"). If you do not agree, do not use the Bot.
+By inviting or using Grivn Bot ("Grivn", "the Bot", "we", "our") in any Discord server, you ("the User", "Server Owner", or "Administrator") agree to be bound by these Terms of Service.
 
-## 1. Usage
+If you do not agree with any part of these terms, do not use or interact with the Bot.
 
-You may use Grivn only in accordance with these Terms and all applicable laws and regulations. Abusive, malicious, or unlawful use is strictly prohibited.
+---
 
-## 2. Ownership and Intellectual Property
+## 1. Compliance with Discord Terms
 
-Grivn is developed and maintained by the Grivn.dev team. All associated code, branding, and features are the intellectual property of the developers unless explicitly stated otherwise.
+Use of Grivn must comply with [Discord’s Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines). Any violations of these terms while using Grivn may result in removal of the Bot from your server and/or reporting to Discord Trust & Safety.
+
+---
+
+## 2. Usage Rights
+
+Grivn is provided under an open-source license for general public use, but remains under the ownership and control of its developers. You are permitted to use the Bot in your server, subject to the following:
+
+- Do not use the Bot for spam, raids, harassment, illegal activity, or to circumvent Discord's safety features.
+- Do not attempt to reverse-engineer, clone, or rebrand the Bot as your own.
+- Do not exploit vulnerabilities or abuse the Bot in ways not intended by its creators.
+
+---
 
 ## 3. Disclaimer of Warranty
 
-Grivn is provided "as-is" with no warranty or guarantee of uptime, security, or performance. We are not liable for any data loss, damage, or unexpected behavior.
+Grivn is provided “as is,” without warranty of any kind, expressed or implied. We make no guarantees regarding uptime, feature availability, accuracy of data, or bot response time.
 
-## 4. Termination
+The developers are not liable for any damages, losses, or disruptions caused by use of the Bot.
 
-We reserve the right to block or restrict access to Grivn at any time, for any reason, including violations of these Terms.
+---
 
-## 5. Modifications
+## 4. Termination of Service
 
-We may update these Terms at any time. Continued use of the Bot after changes are published constitutes acceptance of the new Terms.
+We reserve the right to block Grivn from any server at our discretion, with or without prior notice, for reasons including but not limited to:
 
-## 6. Support
+- Abuse or exploitation
+- Breach of these Terms
+- Discord API violations
+- Malicious use
 
-For assistance, questions, or bug reports, please visit our support server: [https://discord.gg/ZPZvmj8Yd7](https://discord.gg/ZPZvmj8Yd7)
+---
+
+## 5. Modifications to the Terms
+
+These Terms may be updated at any time. Continued use of Grivn after changes are published constitutes acceptance of the new Terms. Significant updates will be noted in the [support server](https://discord.gg/ZPZvmj8Yd7).
+
+---
+
+## 6. Contact and Support
+
+For questions, bug reports, feature requests, or data inquiries, contact us via the official support server: [https://discord.gg/ZPZvmj8Yd7](https://discord.gg/ZPZvmj8Yd7)
