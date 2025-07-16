@@ -6,7 +6,7 @@ module.exports = {
   async execute(oldMember, newMember) {
     const logs = [];
 
-    // Nickname (Display Name) Change
+    // Display Name Change
     if (oldMember.displayName !== newMember.displayName) {
       logs.push(`**Nickname Changed:**\n\`${oldMember.displayName}\` ➜ \`${newMember.displayName}\``);
     }
