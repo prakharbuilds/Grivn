@@ -31,7 +31,7 @@ module.exports = {
       return interaction.reply({ content: '❌ Could not find that user.', flags: 64 });
     }
 
-    if (!durationMs || durationMs > 2419200000) { // Max 28 days
+    if (!durationMs || durationMs > 2419200000) { 
       return interaction.reply({ content: '❌ Invalid duration. Use formats like 10m, 1h, 2d (Max: 28 days)', flags: 64 });
     }
 
