@@ -20,7 +20,7 @@ module.exports = {
     }
 
     try {
-      await target.timeout(null); // Remove timeout
+      await target.timeout(null); 
 
       // Log infraction
       const existing = await db.get(`infractions_${target.id}`) || [];
