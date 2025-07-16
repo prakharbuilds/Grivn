@@ -4,7 +4,7 @@ const db = new QuickDB();
 
 module.exports = {
   data: new SlashCommandBuilder()
-    .setName('file') // ← This must match exactly and be inside `data`
+    .setName('file') 
     .setDescription('View a member\'s moderation history.')
     .addUserOption(option =>
       option.setName('user')
