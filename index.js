@@ -1,4 +1,3 @@
-// 🟢 Web Server to keep Replit alive
 const express = require('express');
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -34,7 +33,7 @@ const joinLeaveLogChannelId = '1388100686507409519';
 const voiceLogChannelId = '1390614408992129034';
 const inviteCache = new Map();
 const joinTimestamps = new Map();
-const voiceJoinTimes = new Map(); // For tracking time spent in VC
+const voiceJoinTimes = new Map(); 
 
 // Load all commands (including subfolders)
 const commandsPath = path.join(__dirname, 'Commands');
